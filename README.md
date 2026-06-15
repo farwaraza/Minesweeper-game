@@ -39,5 +39,3 @@ gcc main.c -o main.exe -O2 -Wall -std=c99 -IC:\raylib\raylib\src -L. -lraylib -l
 ### 3. Run
 ```bash
 main.exe
-
-
